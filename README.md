@@ -26,7 +26,7 @@
 ## Getting Started
 1. Clone this repository:
    ```
-   git clone https://github.com/<your-username>/CodeCompanion.git
+   git clone https://github.com/niksviatkin/CodeCompanion.git
    ```
 2. Follow the instructions in the [backend/README.md](backend/README.md) and [frontend/README.md](frontend/README.md) for local setup.
 
